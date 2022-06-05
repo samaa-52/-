@@ -1,0 +1,59 @@
+
+.box{
+   display: inline-table;
+
+   margin-right: 50px;
+
+    width: 380px;
+
+    text-align:right;
+
+    font-family: 'Microsoft YaHei';
+
+    font-size: 14px;
+
+}
+
+input{
+    border-radius: 7px;
+    width: 260px;
+
+    border: 1px solid #e2e2e2;
+
+    height: 35px;
+
+}
+
+#search{
+
+    width: 78px;
+
+    height: 37px;
+
+    float: right;
+
+    background: rgb(9, 106, 103);
+     border-radius: 7px;
+
+    color: white;
+
+    text-align: center;
+
+    line-height: 32px;
+
+    cursor: pointer;
+
+}
+.img1{
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 5px;
+    height: 300px;
+    width: 250px;
+}
+hr{
+   height: 10px;
+background-color: #ecba7a;
+ border: solid; 
+ color: #ecba7a;
+}

@@ -1,0 +1,129 @@
+body{
+    background-image: url("images\ \(3\).jfif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+}
+header{ margin: 0px;
+    direction: rtl;
+    padding: 0px;
+     background-color:rgb(25, 175, 170);
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     height: 150px;
+}
+h1{
+    
+    font-family: url(http://fonts.googleapis.com/earlyaccess/thabit.css);
+    padding-right: 40px;
+    font-size: 60px;
+    color: beige;}
+
+    p{
+        margin-left: 30px;
+        
+        display: inline;
+    }
+    button{
+        padding: 4px 30px 4px 30px;
+       
+        cursor: pointer;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    ul {
+    
+        list-style-type: none;
+        margin: 0%;
+        padding: 0px;
+        overflow: hidden;
+        background-color: #73d8d8;
+    }
+    
+    li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+        background-color: rgb(31, 138, 134);
+    }
+    
+    .password{
+    text-align: center;
+        height:430px;
+        width: 470px;
+        margin: auto;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px 6px rgb(204, 244, 242);
+        background-color:rgb(25, 175, 170);
+    }
+    .password h2{
+        padding-top: 30px;
+        text-align: center;
+        color:beige;
+        font-size: 50px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .password input{
+        margin-top: 10px;
+        margin-left: 80px;
+        margin-bottom: 30px;
+        border-radius: 10px;
+        height: 40px;
+        width: 300px;
+    }
+    .box{
+       display: inline-table;
+    
+       margin-right: 50px;
+    
+    
+        width: 380px;
+    
+        text-align:right;
+    
+        font-family: 'Microsoft YaHei';
+    
+        font-size: 14px;
+    
+    }
+    
+    input{
+        border-radius: 7px;
+        width: 260px;
+        text-align: right;
+        border: 1px solid #e2e2e2;
+    
+        height: 35px;
+    
+    }
+    
+    #search{
+    
+        width: 78px;
+    
+        height: 37px;
+    
+        float: right;
+    
+        background: rgb(9, 106, 103);
+         border-radius: 7px;
+    
+        color: white;
+    
+        text-align: center;
+    
+        line-height: 32px;
+    
+        cursor: pointer;
+    
+    }

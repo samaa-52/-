@@ -1,0 +1,146 @@
+body{
+    direction:rtl ;
+    background-color:white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+}
+header{
+     background-color:rgb(25, 175, 170);
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     height: 150px;
+ }
+ h1{
+    font-family: url(http://fonts.googleapis.com/earlyaccess/thabit.css);
+    margin-right: 30px;
+    font-size: 60px;
+    color: beige;
+ }
+ h2{
+     text-align: center;
+     color: rgb(255, 247, 236);
+ }
+ .book1{
+    margin-top: 30px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-table;
+    height: 400px;
+    width: 270px;
+    border-radius: 5px;
+    background-color:rgba(53, 175, 171, 0.519);
+}
+.book1:hover{
+    color:rgba(91, 210, 206, 0.741) ;
+}
+.img1:hover{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    height: 280px;
+    width: 230px;
+    
+}
+
+a{
+   
+    color: aliceblue ;
+    text-decoration-line: none;
+}
+ul {
+
+    list-style-type: none;
+    margin: 0%;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #73d8d8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(31, 138, 134);
+}
+.active {
+    background-color:  #086b6b;
+}
+.box{
+   display: inline-table;
+
+   margin-right: 50px;
+
+    width: 380px;
+
+    text-align:right;
+
+    font-family: 'Microsoft YaHei';
+
+    font-size: 14px;
+
+}
+
+input{
+    border-radius: 7px;
+    width: 260px;
+
+    border: 1px solid #e2e2e2;
+
+    height: 35px;
+
+}
+
+#search{
+
+    width: 78px;
+
+    height: 37px;
+
+    float: right;
+
+    background: rgb(9, 106, 103);
+     border-radius: 7px;
+
+    color: white;
+
+    text-align: center;
+
+    line-height: 32px;
+
+    cursor: pointer;
+
+}
+.img1{
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 10px;
+    height: 300px;
+    width: 250px;
+}
+form{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+hr{
+    height: 10px;
+ background-color: #ecba7a;
+  border: solid; 
+  color: #ecba7a;
+ }
+ p{
+     
+    color: rgb(207, 142, 44);
+    text-align: center;
+    font-size: 40px;
+ }

@@ -1,0 +1,79 @@
+
+.box{
+   display: inline-table;
+
+   margin-right: 50px;
+
+    width: 380px;
+
+    text-align:right;
+
+    font-family: 'Microsoft YaHei';
+
+    font-size: 14px;
+
+}
+
+input{
+    border-radius: 7px;
+    width: 260px;
+
+    border: 1px solid #e2e2e2;
+
+    height: 35px;
+
+}
+
+#search{
+
+    width: 78px;
+
+    height: 37px;
+
+    float: left;
+
+    background: rgb(9, 106, 103);
+     border-radius: 7px;
+
+    color: white;
+
+    text-align: center;
+
+    line-height: 32px;
+
+    cursor: pointer;
+
+}
+.p1{
+    color: rgb(207, 142, 44);
+    text-align: center;
+    font-size: 40px;
+}
+.p2{
+    color: rgb(207, 142, 44);
+    text-align: center;
+    font-size: 40px;
+}
+.img1{ 
+    height: 500px;
+    width: 100%;
+
+}
+p{
+    font-size: 25px;
+}
+form{
+    margin-left: 150px;
+    text-align: center;
+}
+h2{
+    text-align: right;
+    color: rgb(214, 136, 19);
+}
+.main-img{
+    padding: 0;
+   
+}
+.clear{
+    clear: both;
+}

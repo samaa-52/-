@@ -1,0 +1,71 @@
+
+    .account{
+    text-align: center;
+        height:500px;
+        width: 470px;
+        margin: auto;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px 6px rgb(204, 244, 242);
+        background-color:rgb(25, 175, 170);
+    }
+    h2{
+        text-align: center;
+        color:beige;
+        font-size: 50px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .account input{
+        margin-top: 10px;
+       
+        margin-bottom: 10px;
+        border-radius: 10px;
+        height: 40px;
+        width: 300px;
+    }
+    .box{
+       display: inline-table;
+    
+       margin-right: 50px;
+    
+    
+        width: 380px;
+    
+        text-align:right;
+    
+        font-family: 'Microsoft YaHei';
+    
+        font-size: 14px;
+    
+    }
+    
+    input{
+        border-radius: 7px;
+        width: 260px;
+    
+        border: 1px solid #e2e2e2;
+    
+        height: 35px;
+    
+    }
+    
+    #search{
+    
+        width: 78px;
+    
+        height: 37px;
+    
+        float: right;
+    
+        background: rgb(9, 106, 103);
+         border-radius: 7px;
+    
+        color: white;
+    
+        text-align: center;
+    
+        line-height: 32px;
+    
+        cursor: pointer;
+    
+    }
